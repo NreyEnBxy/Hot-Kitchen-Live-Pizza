@@ -1,0 +1,20 @@
+{
+  "short_name": "HotKitchen",
+  "name": "Hot Kitchen Live Pizza POS",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/pizza/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/pizza/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#E11D48",
+  "background_color": "#F8FAFC"
+}
